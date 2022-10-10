@@ -1,1 +1,1 @@
-# SQL-Data-exploration-project--Covod19-Data
+# SQL-Data-exploration-project--Covid19-Data
