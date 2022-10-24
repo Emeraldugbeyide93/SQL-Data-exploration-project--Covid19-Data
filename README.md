@@ -1,5 +1,5 @@
 
-This is a beginner-intermediate friendly level data exploration project using the Covid 19 dataset.
+This is a beginner-intermediate friendly data exploration project using the Covid 19 dataset.
 
 This project was done using SQL and is part of a portfolio project series.
 
